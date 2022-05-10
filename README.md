@@ -1,5 +1,5 @@
 <h1 align="center">Wuz good, I'm Lucy</h1>
-<h3 align="center">A friend of your mom's haha gottem</h3>
+<h3 align="center">Lovely friend and dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banglucy&label=Profile%20views&color=0e75b6&style=flat" alt="banglucy" /> </p>
 
