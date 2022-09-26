@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/banglucyuwu" target="blank"><img src="https://img.shields.io/twitter/follow/banglucyuwu?logo=twitter&style=for-the-badge" alt="banglucyuwu" /></a> </p>
 
-- 🔭 I’m currently working on **a Stratroullete**
+- 🔭 I’m currently working on **a launcher!**
 
-- 🌱 I’m currently learning **C++ and Objective-C**
-
-- 💬 Ask me about **jailbreaking**
+- 🌱 I’m currently learning **Swift and Objective-C**
 
 - 📫 How to reach me **@BangLucyUwU on Twitter or BangLucy#6527 on Discord**
 
