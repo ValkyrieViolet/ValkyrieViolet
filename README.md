@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Swift and Objective-C**
 
-- 📫 How to reach me **@BangLucyUwU on Twitter or BangLucy#6527 on Discord**
+- 📫 How to reach me **@BangLucyUwU on Twitter or banglucy on Discord**
 
 - ⚡ Fun fact **I think sometimes...**
 
