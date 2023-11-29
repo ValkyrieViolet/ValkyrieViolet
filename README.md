@@ -1,4 +1,4 @@
-<h1 align="center">Wuz good, I'm Lucy</h1>
+<h1 align="center">What's up, I'm Lucy!</h1>
 <h3 align="center">Lovely friend and dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banglucy&label=Profile%20views&color=0e75b6&style=flat" alt="banglucy" /> </p>
